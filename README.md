@@ -60,3 +60,7 @@ python beam_deflection.py
 ## 🤝 Contributing
 
 Feel free to fork and improve! Open a PR for enhancements, bug fixes, or new features.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
